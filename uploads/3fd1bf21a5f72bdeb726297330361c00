@@ -1,0 +1,12 @@
+﻿Nombre;Telefono;Poliza;Compañí­a;;;;;;;Texto
+MARISA EDITH;1170072882;443750;ATM;;;;;;;Hola {{Nombre}}. Me contacto desde el area de cobranzas de SeguroWeb. Nos gustaría informarte que aun no se ha registrado el pago de tu poliza {{Poliza}} en {{CompaÃ±Ã­a}}. Por favor, comprobá que el mismo no haya sido efectuado, caso contrario, desestimá este mensaje. Muchas Gracias por ayudarnos.  
+BLAD GUILLERMO;1157733018;5493262;ATM;;;;;;;
+WALTER JOSE ANTONIO;1160003989;159736;ATM;;;;;;;
+DIEGO IVAN;3487511946;5367539;ATM;;;;;;;
+"FELIPE BULACIO
+";1536102557;5348192;ATM;;;;;;;
+ALEJANDRO FERREYRA;154645656;453145;ATM;;;;;;;
+DIEGO HERNAN;1126670082;5666314;ATM;;;;;;;
+ADRIAN ALBERTO;1565577358;5713068;ATM;; ;;;;;
+DAMIAN URRELLI;3412792570;458908;ATM;;;;;;;
+FLAVIO FERNANDO;2213644432;404580;ATM;;;;;;;

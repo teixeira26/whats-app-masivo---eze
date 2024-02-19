@@ -1,0 +1,48 @@
+2024/02/14-10:35:19.591 30bc Reusing MANIFEST C:\Users\Matheus\Desktop\Proyectos\whats app masivo - eze\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/14-10:35:19.593 30bc Recovering log #116
+2024/02/14-10:35:19.595 30bc Reusing old log C:\Users\Matheus\Desktop\Proyectos\whats app masivo - eze\tokens\session-name\Default\Local Storage\leveldb/000116.log 
+2024/02/14-10:37:20.413 3a68 Level-0 table #120: started
+2024/02/14-10:37:20.415 3a68 Level-0 table #120: 14770 bytes OK
+2024/02/14-10:37:20.418 3a68 Delete type=0 #116
+2024/02/14-20:16:11.489 3a68 Level-0 table #122: started
+2024/02/14-20:16:11.492 3a68 Level-0 table #122: 14223 bytes OK
+2024/02/14-20:16:11.494 3a68 Delete type=0 #119
+2024/02/14-20:16:11.494 3a68 Compacting 4@0 + 1@1 files
+2024/02/14-20:16:11.498 3a68 Generated table #123@0: 16 keys, 9756 bytes
+2024/02/14-20:16:11.498 3a68 Compacted 4@0 + 1@1 files => 9756 bytes
+2024/02/14-20:16:11.498 3a68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/14-20:16:11.499 3a68 Delete type=2 #113
+2024/02/14-20:16:11.499 3a68 Delete type=2 #115
+2024/02/14-20:16:11.499 3a68 Delete type=2 #117
+2024/02/14-20:16:11.499 3a68 Delete type=2 #120
+2024/02/14-20:16:11.500 3a68 Delete type=2 #122
+2024/02/15-15:55:26.316 3a68 Level-0 table #125: started
+2024/02/15-15:55:26.319 3a68 Level-0 table #125: 12492 bytes OK
+2024/02/15-15:55:26.321 3a68 Delete type=0 #121
+2024/02/16-01:47:35.888 3a68 Level-0 table #127: started
+2024/02/16-01:47:35.891 3a68 Level-0 table #127: 13101 bytes OK
+2024/02/16-01:47:35.893 3a68 Delete type=0 #124
+2024/02/16-13:43:59.214 3a68 Level-0 table #129: started
+2024/02/16-13:43:59.217 3a68 Level-0 table #129: 13054 bytes OK
+2024/02/16-13:43:59.219 3a68 Delete type=0 #126
+2024/02/17-03:48:56.872 3a68 Level-0 table #131: started
+2024/02/17-03:48:56.875 3a68 Level-0 table #131: 13653 bytes OK
+2024/02/17-03:48:56.877 3a68 Delete type=0 #128
+2024/02/17-03:48:56.877 3a68 Compacting 4@0 + 1@1 files
+2024/02/17-03:48:56.880 3a68 Generated table #132@0: 16 keys, 9751 bytes
+2024/02/17-03:48:56.880 3a68 Compacted 4@0 + 1@1 files => 9751 bytes
+2024/02/17-03:48:56.882 3a68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/17-03:48:56.882 3a68 Delete type=2 #123
+2024/02/17-03:48:56.882 3a68 Delete type=2 #125
+2024/02/17-03:48:56.882 3a68 Delete type=2 #127
+2024/02/17-03:48:56.882 3a68 Delete type=2 #129
+2024/02/17-03:48:56.882 3a68 Delete type=2 #131
+2024/02/17-22:49:55.398 3a68 Level-0 table #134: started
+2024/02/17-22:49:55.401 3a68 Level-0 table #134: 13347 bytes OK
+2024/02/17-22:49:55.403 3a68 Delete type=0 #130
+2024/02/18-21:30:58.186 3a68 Level-0 table #136: started
+2024/02/18-21:30:58.189 3a68 Level-0 table #136: 12626 bytes OK
+2024/02/18-21:30:58.190 3a68 Delete type=0 #133
+2024/02/19-12:41:45.230 2a84 Level-0 table #138: started
+2024/02/19-12:41:45.234 2a84 Level-0 table #138: 13486 bytes OK
+2024/02/19-12:41:45.235 2a84 Delete type=0 #135

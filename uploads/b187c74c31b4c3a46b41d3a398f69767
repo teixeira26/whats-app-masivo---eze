@@ -1,0 +1,10 @@
+﻿Nombre;Telefono;Poliza;Compañia;;;;;;Texto
+WALTER JOSE ANTONIO;1160003989;159736;ATM;;;;;;Hola {{Nombre}}. Mi nombre es Ezequiel del área de cobranzas de Seguroweb para informarle que su póliza {{Poliza}} de {{Compañia}} registra deuda. Por lo tanto, ante una siniestralidad no tendrá cobertura. Para poder regularizar su situación y recuperar la cobertura por favor responda este mensaje o comuníquese con cobranzas@seguroweb.com.ar
+"FELIPE BULACIO
+";1136102557;5348192;ATM;;;;;;
+ALEJANDRO FERREYRA;114645656;453145;ATM;;;;;;
+DIEGO HERNAN;1126670082;5666314;ATM;;;;;;
+ADRIAN ALBERTO;1565577358;5713068;ATM;;;;;;
+DAMIAN URRELLI;3412792570;458908;ATM;;;;;;
+FLAVIO FERNANDO;2213644432;404580;ATM;;;;;;
+FRANCISCO NIEVA;1149753716;430107;ATM;;;;;;
